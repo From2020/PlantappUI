@@ -20,7 +20,7 @@ class Body extends StatelessWidget {
           FeaturedFlants(),
           SizedBox(
             height: kDefaultPadding,
-          )
+          ),
         ],
       ),
     );
